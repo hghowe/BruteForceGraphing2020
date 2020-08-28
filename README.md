@@ -17,7 +17,7 @@ It will then generate a graph, composed of "|" and "-" for the axes, " " for whi
 
 Because the line may consist of non-integer values, this will necessarily be an _approximation_ of the line - you won't get it perfect (you can't!). The constraints on making a graph this way are what make this interesting….
 
-**Getting the starter code. (This is the same as for Brute Force Graphing, but with a different link.)**
+**Getting the starter code. (This is the same as for Numerical Image Decompression, but with a different link.)**
 
 *   Click on this link: [https://classroom.github.com/a/w0KWqiXd](https://classroom.github.com/a/w0KWqiXd) to take you to a page inviting you to the github classroom assignment. You will likely need to log in with your github account.
 *   If this is your first time doing one of these assignments, you should see a list of names - please pick your own.
