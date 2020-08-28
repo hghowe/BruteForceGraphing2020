@@ -53,12 +53,8 @@ To make something like an ideal graph "fit" into a restricted environment like a
 *   What about these choices might make it deviate from the ideal? 
 *   Why did you make these choices? 
 
-    ```
-
-```
-
-
-
+    (*Put your answers in the Google Doc.*)
+    
 We will discuss how to turn in your project via github in class.
 
 Challenge: if you are feeling particularly fancy, try seeing whether you can graph a parabola, but make sure you write the linear version first!
@@ -67,6 +63,4 @@ Challenge: if you are feeling particularly fancy, try seeing whether you can gra
 <!-- Footnotes themselves at the bottom. -->
 ## Notes
 
-[^1]:
-
-     Sounds like something out of _Mission Impossible,_ doesn't it?
+[^1]: Sounds like something out of _Mission Impossible,_ doesn't it?
