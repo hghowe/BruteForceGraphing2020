@@ -1,6 +1,6 @@
 APCS	August 27, 2020
 
-Brute Force Graphing
+## Brute Force Graphing ##
 
 Although we will certainly be playing with graphics later, for now we are constrained a bit to ASCII art. I'd like for you to consider writing a program that you can use to graph a linear function **in the first quadrant**, using only the text console.
 
@@ -19,22 +19,13 @@ Because the line may consist of non-integer values, this will necessarily be an 
 
 **Getting the starter code. (This is the same as for Brute Force Graphing, but with a different link.)**
 
-
-
 *   Click on this link: [https://classroom.github.com/a/w0KWqiXd](https://classroom.github.com/a/w0KWqiXd) to take you to a page inviting you to the github classroom assignment. You will likely need to log in with your github account.
 *   If this is your first time doing one of these assignments, you should see a list of names - please pick your own.
 *   There should be a button prompting you to "accept" this assignment.[^1]
 
 
 *   After a brief pause, you'll get a message saying you're ready to go, with a url on it. Go ahead and click on this URL.
-*   You should see something similar to this. (This is for a different assignment for a different class for a different student, but the overall appearance should be similar.) \
-
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.png "image_tooltip")
-
+*   You should see something similar to this. (This is for a different assignment for a different class for a different student, but the overall appearance should be similar.) <br /><img src = "images/image1.png" width = "750px">.
 *   Click on the green "Code" button. You'll see the start of a (mighty similar) URL here, too. Click on the clipboard icon next to it to copy this URL into your clipboard.
 *   Launch IntelliJ IDEA on your computer, and then…
     *   If you are seeing the IntelliJ greeting screen, click "Get From Version Control."
